@@ -1,10 +1,8 @@
-### Hi there 👋 , I'm Rickmer Nice to meet you !
+### Hi there 👋 , I'm Rickmer a computer science studant at IAI-TOGO .
   
-       A computer science student at IAI-TOGO
-
- --🔭 I’m currently working on school projects
- --🌱 I’m currently learning  datascience 
- --👯 I’m looking to collaborate on AI projects 
- --💬 Ask me about python and typescript 
+ --🔭 I’m currently working on school projects <br>
+ --🌱 I’m currently learning  datascience <br>
+ --👯 I’m looking to collaborate on AI projects <br>
+ --💬 Ask me about python and typescript <br>
  --📫 How to reach me: itzagbrickmer@gmail
 
