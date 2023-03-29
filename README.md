@@ -1,4 +1,6 @@
 ### Hi there 👋 , I'm Rickmer Nice to meet you !
+  
+  ##A computer science student at IAI-TOGO
 
  --🔭 I’m currently working on school projects
  --🌱 I’m currently learning  datascience 
