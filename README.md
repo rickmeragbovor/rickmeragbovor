@@ -4,5 +4,5 @@
  --🌱 I’m currently learning  datascience <br>
  --👯 I’m looking to collaborate on AI projects <br>
  --💬 Ask me about python and typescript <br>
- --📫 How to reach me: itzagbrickmer@gmail
+ --📫 How to reach me: agbrickmer@gmail
 
